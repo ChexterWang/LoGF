@@ -1,0 +1,7 @@
+{
+	"resource": "./assets/img/resource.png",
+	"plain": "./assets/img/plain.png",
+	"forest": "./assets/img/forest.png",
+	"mountain": "./assets/img/mountain.png",
+	"boss": "./assets/img/boss.png"
+}
